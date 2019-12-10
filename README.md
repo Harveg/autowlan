@@ -11,6 +11,8 @@ Further reference and explanations:
 
 Tested on Raspberry Pi Zero W.
 
+### Access point configurations
+You can customize the network password and other configurations on files at _confs/hostapd_confs/_. You can also add your own _hostapd_ configuration files here. 
 
 ### Management using plain docker
 Add _--rm_ for volatile containers. 
