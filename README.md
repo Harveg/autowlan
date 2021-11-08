@@ -1,8 +1,6 @@
 # AutoWLAN
 #### by @guille_hartek on [Follow the White Rabbit](https://fwhibbit.es)
 
-![](cover.png)
-
 This project will allow you run a portable access point on a Raspberry Pi making use of _Docker_ containers. 
 
 Further reference and explanations: 
